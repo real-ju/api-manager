@@ -21,5 +21,5 @@ this.Api.apiName.get()
 this.Api.apiName.put('/1', {})
 
 // 请求加载状态
-this.Api.apiName.delete('/1')
+this.Api.apiName.loading.get
 ```
